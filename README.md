@@ -1,5 +1,4 @@
 # Own-Projects
-Projects done aside of the 42 Cursus
+My personal side projects
 
-## 1. File System Explorer
-[![FSExplore]](https://github.com/IsaiahRobinsonGit/File-System-Explore)
+- [FSExplore](https://github.com/IsaiahRobinsonGit/File-System-Explore) A simple shell implementation with built-in pwd and ls commands.
